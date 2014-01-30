@@ -14,5 +14,4 @@ var mainServer = function (request, response) {
     });
     request.resume();
 };
-http.createServer(mainServer).listen(8080);
 http.createServer(mainServer).listen(80);
