@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "request": "~2.33.0",
     "node-static": "~0.7.3",
     "lodash": "~2.4.1"
