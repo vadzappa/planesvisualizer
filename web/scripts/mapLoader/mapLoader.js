@@ -2,7 +2,7 @@
  * Author: Vadim
  * Date: 1/29/14
  */
-define(['jquery', '../../.', 'd3', 'topojson', 'utils/eventEmitter/eventEmitter'],
+define(['jquery', 'lodash', 'd3', 'topojson', 'utils/eventEmitter/eventEmitter'],
     function ($, _, d3, topojson, EventEmitter, undefined) {
 
         var MapLoader = function MapLoader(defaultContainer, options) {

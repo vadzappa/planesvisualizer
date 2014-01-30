@@ -2,7 +2,7 @@
  * Author: Vadim
  * Date: 1/29/14
  */
-define(['jquery', '../../.', 'd3', '../utils/objectsManipulator/objectsManipulator', '../utils/eventEmitter/eventEmitter'], function ($, _, d3, ObjectsManipulator, EventEmitter, undefined) {
+define(['jquery', 'lodash', 'd3', '../utils/objectsManipulator/objectsManipulator', '../utils/eventEmitter/eventEmitter'], function ($, _, d3, ObjectsManipulator, EventEmitter, undefined) {
 
     var importedNode = undefined,
         timeScaleFactor = 1000 / 3600;

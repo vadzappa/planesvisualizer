@@ -23,7 +23,7 @@ require.config({
 require([
     'jquery',
     'd3',
-    '../.',
+    'lodash',
     'mapLoader/mapLoader',
     'utils/geoProjection/geoProjection',
     'utils/objectsManipulator/objectsManipulator',
