@@ -1,0 +1,16 @@
+{
+  "name": "d3jsplayground",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "~2.33.0",
+    "node-static": "~0.7.3",
+    "lodash": "~2.4.1"
+  }
+}

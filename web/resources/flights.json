@@ -1,0 +1,86 @@
+[
+    {
+        "base": {
+            "coordinates": {
+                "lat": 45.4640704,
+                "lon": 9.1719064
+            }
+        },
+        "schedule": [
+            {
+                "name": "Milano-Moscow",
+                "coordinates": {
+                    "lat": 55.749792,
+                    "lon": 37.632495
+                },
+                "time": 8
+            },
+            {
+                "name": "Moscow-Sochi",
+                "coordinates": {
+                    "lat": 43.6017215,
+                    "lon": 39.725129
+                },
+                "time": 5
+            },
+            {
+                "name": "Sochi-Tbilisi",
+                "coordinates": {
+                    "lat": 41.7324592,
+                    "lon": 44.8070955
+                },
+                "time": 2
+            },
+            {
+                "name": "Tbilisi-Milano",
+                "coordinates": {
+                    "lat": 45.4640704,
+                    "lon": 9.1719064
+                },
+                "time": 10
+            }
+        ]
+    },
+    {
+        "base": {
+            "coordinates": {
+                "lat": 51.5286416,
+                "lon": -0.1015987
+            }
+        },
+        "schedule": [
+            {
+                "name": "London-Chicago",
+                "coordinates": {
+                    "lat": 41.833733,
+                    "lon": -87.7321554
+                },
+                "time": 8
+            },
+            {
+                "name": "Chicago-San Francisco",
+                "coordinates": {
+                    "lat": 37.7577,
+                    "lon": -122.4376
+                },
+                "time": 5
+            },
+            {
+                "name": "San Francisco-Vancover",
+                "coordinates": {
+                    "lat": 49.2569425,
+                    "lon": -123.1239039
+                },
+                "time": 2
+            },
+            {
+                "name": "Vancover-London",
+                "coordinates": {
+                    "lat": 51.5286416,
+                    "lon": -0.1015987
+                },
+                "time": 10
+            }
+        ]
+    }
+]
