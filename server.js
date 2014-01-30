@@ -14,4 +14,4 @@ var mainServer = function (request, response) {
     });
     request.resume();
 };
-http.createServer(mainServer).listen(80);
+http.createServer(mainServer).listen(process.env.PORT || 80);
